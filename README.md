@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abenezer!
+- 👋 Hi, I’m Abenezer Amanuel!
 - 💞️ I’m interested in soccer, video games, and coding.
 - 🌱 I’m currently studying Computer Science at Columbia University in New York.
 - 👀 I’m looking to collaborate on small- and large-scale projects.
