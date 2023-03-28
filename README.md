@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abenezer!
 - 💞️ I’m interested in soccer, video games, and coding.
-- 🌱 I’m currently learning Computer Science @ Columbia University.
-- 👀 I’m looking to collaborate on small- and large-scale projects,
+- 🌱 I’m currently studying Computer Science at Columbia University in New York.
+- 👀 I’m looking to collaborate on small- and large-scale projects.
 - 📫 How to reach me:
   - Email: abitad2015@gmail.com / abitad2017@gmail.com
   - Instagram: @abvswrld   
