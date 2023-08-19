@@ -3,11 +3,11 @@
 - 🌱 I’m currently studying Computer Science at Columbia University in New York.
 - 👀 I’m looking to collaborate on small- and large-scale projects.
 - 📫 How to reach me:
-  - Email: abitad2015@gmail.com / abitad2017@gmail.com
-  - Instagram: @abvswrld   
-  - Twitter: @abdepresso
+  - Email: abitad2015@gmail.com / ata2152@columbia.edu
+  - LinkedIn: https://www.linkedin.com/in/abenezer-amanuel/
+  - Website: https://abenezeramanuel.netlify.app
+  - Instagram: https://www.instagram.com/abenezta/ 
   - Discord: ab.depresso
-  - Facebook: Abeni Tad
 
 <!---
 AbenezerA/AbenezerA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
